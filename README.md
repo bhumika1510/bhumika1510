@@ -2,17 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Bhumika;Pre-Final+Year;Aspiring+Software+Engineer;" alt="Typing SVG" />
 </h1>
 
+<p align="center">
+<a href="mailto:2k23.csai2310288@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<p align="center">
-  <a href="mailto:2k23.csai2310288@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="www.linkedin.com/in/bhumika-mishra-b0b120288">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=bhumika1510&label=Profile%20Views&color=0e75b6&style=flat&reset=1" alt="Profile views" />
+<a href="https://www.linkedin.com/in/bhumika-mishra-b0b120288/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
 
@@ -60,7 +57,7 @@
     <img height="165" alt="stats" src="https://github-readme-stats.vercel.app/api?username=bhumika1510&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent">
   </a>
   <a href="https://github.com/bhumika1510">
-    <img height="165" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvanshbu0681&layout=compact&hide_border=true&theme=transparent">
+    <img height="165" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika1510&layout=compact&hide_border=true&theme=transparent">
   </a>
   <br/>
   <a href="https://github.com/bhumika1510">
