@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<a href="mailto:2k23.csai2310288@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&to=2k23.csai2310288@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -75,9 +75,8 @@
 If you’re building something interesting—or looking for an intern who ships—**let’s talk**.
 
 <p align="center">
-  <a href="mailto:2k23.csai2310288@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" alt="email">
-  </a>
+ 
+
   <a href="https://www.linkedin.com/in/bhumika-mishra-b0b120288/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="linkedin">
   </a>
