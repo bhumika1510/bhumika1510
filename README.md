@@ -26,7 +26,7 @@
   <b>•</b> Turning ideas into full-stack applications<br/>
   <b>•</b> Giving back through open-source contributions<br/>
   <b>•</b> Constantly learning and experimenting with new technologies<br/>
-  <b>•</b> Building with a focus on performance, accessibility, and scalability<br/>
+  <b>•</b> Building with a focus on performance, accessibility  and scalability<br/>
   <b>•</b> Collaborating with others to share knowledge and grow together
 </p>
 
@@ -73,7 +73,7 @@
 ---
 
 ## 🤝 Connect
-If you’re building something interesting—or looking for an intern who ships—**let’s talk**.
+If you’re building something interesting or looking for an intern who ships **let’s talk**.
 
 <p align="center">
  
