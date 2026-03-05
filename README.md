@@ -42,9 +42,9 @@
   <img src="https://skillicons.dev/icons?i=git,github,tailwind,supabase" alt="tools">
 </p>
 
-- **Languages:** C, Java, Python, JavaScript  
+- **Languages:**  Java, Python, JavaScript  
 - **Frontend:** React, Next.js, Tailwind
-- **Backend:** Node.js, Express ,Supabase    
+- **Backend:** Node.js, Express   
 - **Tools:** Git/GitHub
 
 ---
