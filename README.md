@@ -51,26 +51,7 @@
 
 
 
-## 📈 GitHub Insights
 
-<p align="center">
-  <a href="https://github.com/bhumika1510">
-    <img height="165" alt="stats" src="https://github-readme-stats.vercel.app/api?username=bhumika1510&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent">
-  </a>
-  <a href="https://github.com/bhumika1510">
-    <img height="165" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumika1510&layout=compact&hide_border=true&theme=transparent">
-  </a>
-  <br/>
-  <a href="https://github.com/bhumika1510">
-    <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=bhumika1510&hide_border=true&theme=transparent">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhumika1510&theme=github-compact&hide_border=true" alt="activity graph">
-</p>
-
----
 
 ## 🤝 Connect
 If you’re building something interesting or looking for an intern who ships **let’s talk**.
